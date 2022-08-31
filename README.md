@@ -10,7 +10,24 @@ CCM作者允许大家在有限制的范围内做出对CCM 的修改，优化，�
 ## Beta版本与稳定版本
 beta版本在另一仓库发布。
 2个beta轮后为稳定版更新
-
+# 更新日志
+## CCM 1.0
+CCM TOOLS 1.0版本问世!
+## CCM 2.0
+修复了1.0的一些bug,干掉了1.0的开机菜单，可以在菜单中找到旧版
+## CCM 3.0
+废除1.0版本一些无用变量与类名
+## CCM 4.0
+改名，优化逻辑
+## CCM 5.0
+彻底删除1.0菜单，修复一些bug
+## CCM 6.0
+增强程序稳定性，提升程序流畅度
+## CCM 7.0
+修复程序底层代码BUG
+修复了点击弹出磁盘自动重启
+## CCM 8.0
+加入电脑杀手功能
 # English Version
 ## Introduction to CCM_TOOLS
 CCM took the lead in creating iTianQi: "Management Tools for Cloud Computing"\
@@ -21,4 +38,21 @@ The software is protected by international copyright laws and international conv
 ## Beta version and stable version
 The beta version is released on ysepan.
 Stable update after 2 beta rounds
-
+# update log
+## CCM 1.0
+CCM TOOLS version 1.0 is out!
+## CCM 2.0
+Fixed some bugs of 1.0, killed the boot menu of 1.0, you can find the old version in the menu
+## CCM 3.0
+Abolish some useless variables and class names in version 1.0
+## CCM 4.0
+Rename, optimize logic
+## CCM 5.0
+Completely delete the 1.0 menu and fix some bugs
+## CCM 6.0
+Enhance program stability and improve program fluency
+## CCM 7.0
+Fix bugs in the underlying code of the program
+Fixed auto restart on clicking eject disk
+## CCM 8.0
+Add computer killer function
